@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BuildRun.iml" filepath="$PROJECT_DIR$/.idea/modules/BuildRun.iml" group="BuildRun" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/launcher.iml" group="BuildRun/launcher" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/unityLibrary.iml" group="BuildRun/unityLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SampleUnity.iml" filepath="$PROJECT_DIR$/.idea/modules/SampleUnity.iml" group="SampleUnity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="SampleUnity/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/launcher.iml" group="SampleUnity/launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/unityLibrary.iml" group="SampleUnity/unityLibrary" />
     </modules>
   </component>
 </project>

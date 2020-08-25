@@ -1,10 +1,21 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/am/Personal/Projects/Unity/StartProject/BuildRun/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "/home/sandeep/StudioProjects/SampleUnity/launcher/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/am/Personal/Projects/Unity/StartProject/BuildRun/launcher/src/main/res/values-v28/styles.xml",
+                    "source": "/home/sandeep/.gradle/caches/transforms-2/files-2.1/d82b0299d84c802fafe463bd35ce15e3/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                },
+                {
+                    "source": "/home/sandeep/StudioProjects/SampleUnity/launcher/src/main/res/values-v28/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -14,12 +25,12 @@
                         "endOffsets": "229"
                     },
                     "to": {
-                        "startLines": "2",
+                        "startLines": "12",
                         "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
+                        "startOffsets": "689",
+                        "endLines": "14",
                         "endColumns": "8",
-                        "endOffsets": "229"
+                        "endOffsets": "863"
                     }
                 }
             ]

@@ -12,8 +12,8 @@ public final class R {
     public static final class style {
         private style() {}
 
-        public static final int BaseUnityTheme = 0x7f040000;
-        public static final int UnityThemeSelector = 0x7f040001;
-        public static final int UnityThemeSelector_Translucent = 0x7f040002;
+        public static final int BaseUnityTheme = 0x7f0c00a0;
+        public static final int UnityThemeSelector = 0x7f0c0110;
+        public static final int UnityThemeSelector_Translucent = 0x7f0c0111;
     }
 }
